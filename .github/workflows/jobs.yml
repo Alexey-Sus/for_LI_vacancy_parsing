@@ -29,11 +29,15 @@ jobs:
           TG_TOKEN: ${{ secrets.TG_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
 
-      - name: Сохранить файл с результатами в репозиторий
+      - name: Сохранить результаты в репозиторий
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add descriptions.docx
-          git commit -m "results $(date -I)" || echo "нет изменений"
-          git pull --rebase
-          git push
+          git add vacancies.csv seen_jobs.json pending_jobs.json
+          if git diff --cached --quiet; then
+            echo "Изменений нет — коммитить нечего"
+          else
+            git commit -m "results $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git pull --rebase --autostash
+            git push
+          fi
