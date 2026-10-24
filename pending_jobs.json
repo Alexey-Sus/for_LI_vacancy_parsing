@@ -1,266 +1,6 @@
 [
   {
     "job": {
-      "id": "4478851749",
-      "title": "Content Writer",
-      "company": "Volopay",
-      "location": "Bengaluru, Karnataka, India",
-      "posted": "1 hour ago",
-      "posted_date": "2026-10-15",
-      "link": "https://in.linkedin.com/jobs/view/content-writer-at-volopay-4478851749"
-    },
-    "query": "crypto AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4479788891",
-      "title": "Social Media Specialist",
-      "company": "Binance",
-      "location": "United Arab Emirates",
-      "posted": "1 hour ago",
-      "posted_date": "2026-10-15",
-      "link": "https://ae.linkedin.com/jobs/view/social-media-specialist-at-binance-4479788891"
-    },
-    "query": "crypto AND \"content writer\"",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4479789628",
-      "title": "Communications Specialist",
-      "company": "Blaze Credit Union",
-      "location": "St Paul, MN",
-      "posted": "2 hours ago",
-      "posted_date": "2026-10-15",
-      "link": "https://www.linkedin.com/jobs/view/communications-specialist-at-blaze-credit-union-4479789628"
-    },
-    "query": "crypto AND \"content writer\"",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4477073455",
-      "title": "AI-First Copy & Community Manager",
-      "company": "Storm Ideas",
-      "location": "Canada",
-      "posted": "15 minutes ago",
-      "posted_date": "2026-10-15",
-      "link": "https://ca.linkedin.com/jobs/view/ai-first-copy-community-manager-at-storm-ideas-4477073455"
-    },
-    "query": "crypto AND \"content writer\"",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4478830974",
-      "title": "Content Writer",
-      "company": "Mojaru",
-      "location": "Dhaka, Dhaka, Bangladesh",
-      "posted": "2 hours ago",
-      "posted_date": "2026-10-15",
-      "link": "https://bd.linkedin.com/jobs/view/content-writer-at-mojaru-4478830974"
-    },
-    "query": "web3 AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4478855227",
-      "title": "Content & Growth Marketer",
-      "company": "Leanbase",
-      "location": "Hanoi Capital Region",
-      "posted": "2 hours ago",
-      "posted_date": "2026-10-15",
-      "link": "https://vn.linkedin.com/jobs/view/content-growth-marketer-at-leanbase-4478855227"
-    },
-    "query": "web3 AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4479808364",
-      "title": "Content and Organic Growth Manager",
-      "company": "Cronofy",
-      "location": "London Area, United Kingdom",
-      "posted": "32 minutes ago",
-      "posted_date": "2026-10-15",
-      "link": "https://uk.linkedin.com/jobs/view/content-and-organic-growth-manager-at-cronofy-4479808364"
-    },
-    "query": "web3 AND \"content writer\"",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4449805833",
-      "title": "Documentation Lead",
-      "company": "Digital Asset",
-      "location": "New York, NY",
-      "posted": "19 hours ago",
-      "posted_date": "2026-10-14",
-      "link": "https://www.linkedin.com/jobs/view/documentation-lead-at-digital-asset-4449805833"
-    },
-    "query": "web3 AND \"content writer\"",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4476662284",
-      "title": "Content Writer",
-      "company": "High Dive International",
-      "location": "Ludhiana, Punjab, India",
-      "posted": "1 hour ago",
-      "posted_date": "2026-10-15",
-      "link": "https://in.linkedin.com/jobs/view/content-writer-at-high-dive-international-4476662284"
-    },
-    "query": "web3 AND \"content writer\"",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4477067020",
-      "title": "SEO Content Writer",
-      "company": "Houzeo",
-      "location": "Thane, Maharashtra, India",
-      "posted": "2 hours ago",
-      "posted_date": "2026-10-15",
-      "link": "https://in.linkedin.com/jobs/view/seo-content-writer-at-houzeo-4477067020"
-    },
-    "query": "web3 AND \"content writer\"",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4478483840",
-      "title": "Member of Editorial Staff, Economics & Policy",
-      "company": "Anthropic",
-      "location": "San Francisco, CA",
-      "posted": "14 hours ago",
-      "posted_date": "2026-10-14",
-      "link": "https://www.linkedin.com/jobs/view/member-of-editorial-staff-economics-policy-at-anthropic-4478483840"
-    },
-    "query": "DeFi AND writer",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4478496435",
-      "title": "Member of Editorial Staff, Economics & Policy",
-      "company": "Anthropic",
-      "location": "San Francisco Bay Area",
-      "posted": "14 hours ago",
-      "posted_date": "2026-10-14",
-      "link": "https://www.linkedin.com/jobs/view/member-of-editorial-staff-economics-policy-at-anthropic-4478496435"
-    },
-    "query": "DeFi AND writer",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4478836309",
-      "title": "Founding Content Marketing Manager",
-      "company": "Hyphenate (formerly Maximor)",
-      "location": "New York City Metropolitan Area",
-      "posted": "7 hours ago",
-      "posted_date": "2026-10-15",
-      "link": "https://www.linkedin.com/jobs/view/founding-content-marketing-manager-at-hyphenate-formerly-maximor-4478836309"
-    },
-    "query": "DeFi AND writer",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4479794784",
-      "title": "Social Media Manager",
-      "company": "Binance",
-      "location": "United Arab Emirates",
-      "posted": "1 hour ago",
-      "posted_date": "2026-10-15",
-      "link": "https://ae.linkedin.com/jobs/view/social-media-manager-at-binance-4479794784"
-    },
-    "query": "blockchain AND \"content writer\"",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4479553487",
-      "title": "SEO Specialist",
-      "company": "LBC Mortgage",
-      "location": "Buenos Aires, Buenos Aires Province, Argentina",
-      "posted": "19 hours ago",
-      "posted_date": "2026-10-14",
-      "link": "https://ar.linkedin.com/jobs/view/seo-specialist-at-lbc-mortgage-4479553487"
-    },
-    "query": "blockchain AND \"content writer\"",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4478859665",
-      "title": "Junior Content Executive",
-      "company": "Gohub",
-      "location": "Ho Chi Minh City, Vietnam",
-      "posted": "13 minutes ago",
-      "posted_date": "2026-10-15",
-      "link": "https://vn.linkedin.com/jobs/view/junior-content-executive-at-gohub-4478859665"
-    },
-    "query": "blockchain AND \"content writer\"",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4478456831",
-      "title": "Marketing Content Specialist - Remote Work",
-      "company": "BairesDev",
-      "location": "Latin America",
-      "posted": "18 hours ago",
-      "posted_date": "2026-10-14",
-      "link": "https://www.linkedin.com/jobs/view/marketing-content-specialist-remote-work-at-bairesdev-4478456831"
-    },
-    "query": "blockchain AND \"content writer\"",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4478475204",
-      "title": "Marketing Content Specialist - Remote Work",
-      "company": "BairesDev",
-      "location": "Brazil",
-      "posted": "18 hours ago",
-      "posted_date": "2026-10-14",
-      "link": "https://br.linkedin.com/jobs/view/marketing-content-specialist-remote-work-at-bairesdev-4478475204"
-    },
-    "query": "blockchain AND \"content writer\"",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4478486995",
-      "title": "Content Marketing Spc II",
-      "company": "Jeppesen ForeFlight",
-      "location": "Austin, TX",
-      "posted": "13 hours ago",
-      "posted_date": "2026-10-14",
-      "link": "https://www.linkedin.com/jobs/view/content-marketing-spc-ii-at-jeppesen-foreflight-4478486995"
-    },
-    "query": "forex AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4479808018",
-      "title": "Content Writer",
-      "company": "Flexiple",
-      "location": "India",
-      "posted": "2 hours ago",
-      "posted_date": "2026-10-15",
-      "link": "https://in.linkedin.com/jobs/view/content-writer-at-flexiple-4479808018"
-    },
-    "query": "forex AND \"content writer\"",
-    "attempts": 0
-  },
-  {
-    "job": {
       "id": "4478855789",
       "title": "Rédacteur.rice fiscaliste de contenus web (m/f/d) - A1",
       "company": "Administration des contributions directes",
@@ -18626,6 +18366,214 @@
       "link": "https://www.linkedin.com/jobs/view/senior-marketing-specialist-at-vystar-credit-union-4483358111"
     },
     "query": "fintech AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4450608242",
+      "title": "Copy",
+      "company": "Siembra lo bueno",
+      "location": "Bogota, D.C., Capital District, Colombia",
+      "posted": "1 hour ago",
+      "posted_date": "2026-10-24",
+      "link": "https://co.linkedin.com/jobs/view/copy-at-siembra-lo-bueno-4450608242"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4483325348",
+      "title": "Senior Copywriter",
+      "company": "Story Digital",
+      "location": "Delhi, India",
+      "posted": "11 hours ago",
+      "posted_date": "2026-10-24",
+      "link": "https://in.linkedin.com/jobs/view/senior-copywriter-at-story-digital-4483325348"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4481051719",
+      "title": "Social Media & Copywriter — Instagram Growth & Campaigns",
+      "company": "Outsource Accelerator",
+      "location": "Pasig, National Capital Region, Philippines",
+      "posted": "3 hours ago",
+      "posted_date": "2026-10-24",
+      "link": "https://ph.linkedin.com/jobs/view/social-media-copywriter-%E2%80%94-instagram-growth-campaigns-at-outsource-accelerator-4481051719"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4481061402",
+      "title": "Online-Redakteur (m/w/d) für boerse-online.de / deraktionaer.de",
+      "company": "Börsenmedien AG",
+      "location": "Munich, Bavaria, Germany",
+      "posted": "1 hour ago",
+      "posted_date": "2026-10-24",
+      "link": "https://de.linkedin.com/jobs/view/online-redakteur-m-w-d-f%C3%BCr-boerse-online-de-deraktionaer-de-at-b%C3%B6rsenmedien-ag-4481061402"
+    },
+    "query": "crypto AND \"content writer\"",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4481060483",
+      "title": "Content Redakteur Internet-Filiale (m/w/d)",
+      "company": "FORUM Direktfinanz GmbH & Co. KG",
+      "location": "Stuttgart, Baden-Württemberg, Germany",
+      "posted": "1 hour ago",
+      "posted_date": "2026-10-24",
+      "link": "https://de.linkedin.com/jobs/view/content-redakteur-internet-filiale-m-w-d-at-forum-direktfinanz-gmbh-co-kg-4481060483"
+    },
+    "query": "crypto AND \"content writer\"",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4480605121",
+      "title": "Senior Social Media Specialist",
+      "company": "Cipher Recruitment",
+      "location": "Melbourne, Victoria, Australia",
+      "posted": "2 hours ago",
+      "posted_date": "2026-10-24",
+      "link": "https://au.linkedin.com/jobs/view/senior-social-media-specialist-at-cipher-recruitment-4480605121"
+    },
+    "query": "web3 AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4482624834",
+      "title": "Content Executive",
+      "company": "Ecstatic Minds",
+      "location": "Kathmandu, Bāgmatī, Nepal",
+      "posted": "11 hours ago",
+      "posted_date": "2026-10-24",
+      "link": "https://np.linkedin.com/jobs/view/content-executive-at-ecstatic-minds-4482624834"
+    },
+    "query": "web3 AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4464221878",
+      "title": "VP, Policy and Regulatory Strategy, Latin America",
+      "company": "Circle",
+      "location": "São Paulo, São Paulo, Brazil",
+      "posted": "9 hours ago",
+      "posted_date": "2026-10-24",
+      "link": "https://br.linkedin.com/jobs/view/vp-policy-and-regulatory-strategy-latin-america-at-circle-4464221878"
+    },
+    "query": "DeFi AND writer",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4481034135",
+      "title": "Technical Content Writer",
+      "company": "Dreamfoot",
+      "location": "Vadodara, Gujarat, India",
+      "posted": "17 hours ago",
+      "posted_date": "2026-10-24",
+      "link": "https://in.linkedin.com/jobs/view/technical-content-writer-at-dreamfoot-4481034135"
+    },
+    "query": "DeFi AND writer",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4473372085",
+      "title": "Senior Copywriter",
+      "company": "NEON",
+      "location": "New York, NY",
+      "posted": "12 hours ago",
+      "posted_date": "2026-10-24",
+      "link": "https://www.linkedin.com/jobs/view/senior-copywriter-at-neon-4473372085"
+    },
+    "query": "trading AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4482343825",
+      "title": "Product Marketing Specialist",
+      "company": "iTradeNetwork, Inc.",
+      "location": "Charlotte, NC",
+      "posted": "19 hours ago",
+      "posted_date": "2026-10-24",
+      "link": "https://www.linkedin.com/jobs/view/product-marketing-specialist-at-itradenetwork-inc-4482343825"
+    },
+    "query": "trading AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4481982496",
+      "title": "Journalist",
+      "company": "I.T. For Less",
+      "location": "India",
+      "posted": "23 hours ago",
+      "posted_date": "2026-10-23",
+      "link": "https://in.linkedin.com/jobs/view/journalist-at-i-t-for-less-4481982496"
+    },
+    "query": "\"stock market\" AND writer",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4481046612",
+      "title": "Answer Engine Optimization Specialist",
+      "company": "Virtustant",
+      "location": "South Africa",
+      "posted": "7 hours ago",
+      "posted_date": "2026-10-24",
+      "link": "https://za.linkedin.com/jobs/view/answer-engine-optimization-specialist-at-virtustant-4481046612"
+    },
+    "query": "fintech AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4482643118",
+      "title": "Copy Writer",
+      "company": "emarketing.io",
+      "location": "Jaipur, Rajasthan, India",
+      "posted": "10 hours ago",
+      "posted_date": "2026-10-24",
+      "link": "https://in.linkedin.com/jobs/view/copy-writer-at-emarketing-io-4482643118"
+    },
+    "query": "fintech AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4463906974",
+      "title": "Product Marketing Manager - Cards",
+      "company": "Rain",
+      "location": "New York, NY",
+      "posted": "10 hours ago",
+      "posted_date": "2026-10-24",
+      "link": "https://www.linkedin.com/jobs/view/product-marketing-manager-cards-at-rain-4463906974"
+    },
+    "query": "fintech AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4481051917",
+      "title": "Marketing Manager Investment Products (m/w/d)",
+      "company": "CYCAP",
+      "location": "Hamburg, Hamburg, Germany",
+      "posted": "1 hour ago",
+      "posted_date": "2026-10-24",
+      "link": "https://de.linkedin.com/jobs/view/marketing-manager-investment-products-m-w-d-at-cycap-4481051917"
+    },
+    "query": "forex trading AND \"content writer\"",
     "attempts": 0
   }
 ]
