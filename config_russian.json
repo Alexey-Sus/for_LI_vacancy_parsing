@@ -1,0 +1,33 @@
+{
+  "message_tag": "🇷🇺",
+
+  "searches": [
+    "Russian AND (localization OR copywriter OR \"content manager\" OR \"language specialist\" OR MTPE OR LQA)",
+    "Russian AND (forex OR trading)"
+  ],
+
+  "people_search_groups": {
+    "HR и рекрутеры": ["head of talent", "head of hr", "head of recruitment", "recruiter", "talent acquisition", "talent partner"],
+    "Контент и маркетинг": ["head of content", "content lead", "content director", "head of copy", "head of marketing"],
+    "Локализация": ["head of localization", "localization manager", "localization lead", "localization director"]
+  },
+
+  "location": "Worldwide",
+  "remote_only": true,
+  "posted_within_hours": 24,
+  "pages_per_search": 3,
+
+  "exclude_words": ["wellness", "fitness", "health coach", "casino", "gambling"],
+  "require_any_words": ["russian", "русский", "русского", "русскоязычный"],
+  "require_role_words": ["copywriter", "copy writer", "writer", "content", "editor", "proofreader",
+                         "localization", "localisation", "localizer", "translator", "translation",
+                         "transcreation", "transcreator", "linguist", "linguistic", "language specialist",
+                         "language expert", "mtpe", "post-editor", "post-editing", "lqa", "subtitler"],
+
+  "check_description": true,
+  "max_description_checks": 20,
+  "description_delay_sec": [5, 10],
+
+  "delay_between_requests_sec": [8, 15],
+  "rate_limit_waits_sec": [60, 180]
+}

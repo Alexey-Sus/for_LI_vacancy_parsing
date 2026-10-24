@@ -1,0 +1,61 @@
+{
+
+  "searches": [
+    "crypto AND copywriter",
+    "crypto AND \"content writer\"",
+    "web3 AND copywriter",
+    "web3 AND \"content writer\"",
+    "DeFi AND writer",
+    "blockchain AND \"content writer\"",
+    "forex AND copywriter",
+    "forex AND \"content writer\"",
+    "trading AND copywriter",
+    "\"stock market\" AND writer",
+    "fintech AND copywriter",
+    "\"stock market\" AND copywriter",
+    "forex trading AND copywriter",
+    "forex trading AND \"content writer\""
+  ],
+
+    "people_search_groups": {
+      "HR и рекрутеры": [
+        "head of talent",
+        "head of hr",
+        "head of recruitment",
+        "recruiter",
+        "talent acquisition",
+        "talent partner"
+      ],
+      "Контент и маркетинг": [
+        "head of content",
+        "content lead",
+        "content director",
+        "head of copy",
+        "head of marketing"
+      ]
+    },
+
+  "location": "Worldwide",
+  "remote_only": true,
+  "posted_within_hours": 24,
+  "pages_per_search": 5,
+
+  "exclude_words": ["wellness", "fitness", "health coach", "casino", "gambling", "grocery", "marketplace",
+                    "merchandising", "ecommerce", "e-commerce", "buying", "volatility", "quant", "quantitative",
+                    "market maker", "algorithmic trader", "portfolio manager", "media trader", "programmatic",
+                    "equity research", "equity analyst", "bond reporter", "legal", "lawyer", "channel manager",
+                    "trader", "trading associate", "sales trader", "campus", "NISM", "Indian equities"
+                    ],
+
+  "require_any_words": ["crypto", "cryptocurrency", "web3", "web 3", "blockchain",
+                        "defi", "tokenomics", "nft", "dao", "bitcoin",
+                        "ethereum", "solana", "on-chain", "onchain",
+                        "forex", "fx", "cfd", "trading", "trader", "broker", "brokerage",
+                        "stock market", "stocks", "equities", "financial markets", "fintech"],
+
+  "check_description": true,
+  "max_description_checks": 60,
+  "description_delay_sec": [2, 4],
+
+  "delay_between_requests_sec": [4, 9]
+}

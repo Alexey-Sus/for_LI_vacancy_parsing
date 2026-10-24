@@ -1,0 +1,65 @@
+{
+  "message_tag": "🇷🇺",
+
+  "searches": [
+    "Russian AND localization",
+    "Russian AND copywriter",
+    "Russian AND \"content manager\"",
+    "Russian AND \"language specialist\"",
+    "Russian AND MTPE",
+    "Russian AND LQA",
+    "Russian AND forex",
+    "Russian AND trading",
+    "Russian content AND crypto",
+    "Russian content AND exchange",
+    "Russian content AND Web3",
+    "Russian localization AND Web3",
+    "Russian localization AND crypto",
+    "Russian localization AND exchange",
+    "CIS marketing AND Web3",
+    "CIS marketing AND crypto",
+    "CIS marketing AND exchange"
+  ],
+
+    "people_search_groups": {
+    "HR и рекрутеры": [
+      "head of talent",
+      "head of hr",
+      "head of recruitment",
+      "recruiter",
+      "talent acquisition",
+      "talent partner"
+    ],
+    "Контент и маркетинг": [
+      "head of content",
+      "content lead",
+      "content director",
+      "head of copy",
+      "head of marketing"
+    ],
+    "Локализация": [
+      "head of localization",
+      "localization manager",
+      "localization lead",
+      "localization director"
+    ]
+  },
+
+  "location": "Worldwide",
+  "remote_only": true,
+  "posted_within_hours": 24,
+  "pages_per_search": 5,
+
+  "exclude_words": ["wellness", "fitness", "health coach", "casino", "gambling"],
+  "require_any_words": ["russian", "русский", "русского", "русскоязычный"],
+  "require_role_words": ["copywriter", "copy writer", "writer", "content", "editor", "proofreader",
+                         "localization", "localisation", "localizer", "translator", "translation",
+                         "transcreation", "transcreator", "linguist", "linguistic", "language specialist",
+                         "language expert", "mtpe", "post-editor", "post-editing", "lqa", "subtitler"],
+
+  "check_description": true,
+  "max_description_checks": 60,
+  "description_delay_sec": [2, 4],
+
+  "delay_between_requests_sec": [4, 9]
+}

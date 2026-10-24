@@ -1,0 +1,59 @@
+{
+  "message_tag": "🔍 SEO",
+
+  "searches": [
+    "\"SEO copywriter\"",
+    "\"SEO writer\"",
+    "\"SEO content writer\"",
+    "\"SEO content specialist\"",
+    "\"SEO content manager\"",
+    "\"SEO content strategist\"",
+    "\"SEO editor\"",
+    "SEO AND copywriter",
+    "SEO AND \"content writer\"",
+
+    "\"SEO copywriter\" AND crypto",
+    "\"SEO writer\" AND crypto",
+    "\"SEO content writer\" AND crypto",
+    "SEO AND crypto AND writer",
+    "\"SEO copywriter\" AND web3",
+    "\"SEO content writer\" AND web3",
+    "SEO AND web3 AND writer",
+    "\"SEO content writer\" AND blockchain",
+    "SEO AND blockchain AND copywriter",
+    "SEO AND DeFi AND writer",
+
+    "\"SEO copywriter\" AND fintech",
+    "\"SEO content writer\" AND fintech",
+    "\"SEO copywriter\" AND forex",
+    "\"SEO content writer\" AND forex",
+    "SEO AND forex AND writer",
+    "\"SEO copywriter\" AND trading",
+    "\"SEO content writer\" AND trading",
+    "SEO AND \"stock market\" AND writer",
+    "SEO AND finance AND copywriter",
+    "SEO AND \"financial content\" AND writer"
+  ],
+
+  "people_search_groups": {
+    "HR и рекрутеры": ["head of talent", "head of hr", "head of recruitment", "recruiter", "talent acquisition", "talent partner"],
+    "Контент и маркетинг": ["head of content", "content lead", "content director", "head of copy", "head of marketing"],
+    "SEO": ["head of seo", "seo lead", "seo manager", "seo director"]
+  },
+
+  "location": "Worldwide",
+  "remote_only": true,
+  "posted_within_hours": 24,
+  "pages_per_search": 1,
+
+  "exclude_words": ["wellness", "fitness", "health coach", "casino", "gambling"],
+  "require_any_words": ["seo"],
+  "require_role_words": ["copywriter", "copy writer", "copywriting", "writer", "content", "editor", "copy"],
+
+  "check_description": true,
+  "max_description_checks": 20,
+  "description_delay_sec": [5, 10],
+
+  "delay_between_requests_sec": [8, 15],
+  "rate_limit_waits_sec": [60, 180]
+}
