@@ -1,266 +1,6 @@
 [
   {
     "job": {
-      "id": "4479168593",
-      "title": "Marketing and Thought Leadership Associate",
-      "company": "Social Capital Resources",
-      "location": "New York, NY",
-      "posted": "10 hours ago",
-      "posted_date": "2026-10-15",
-      "link": "https://www.linkedin.com/jobs/view/marketing-and-thought-leadership-associate-at-social-capital-resources-4479168593"
-    },
-    "query": "\"stock market\" AND writer",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4480333521",
-      "title": "Investment Marketing Publisher / Financial Publisher",
-      "company": "Innova ESI",
-      "location": "Gurugram, Haryana, India",
-      "posted": "8 minutes ago",
-      "posted_date": "2026-10-16",
-      "link": "https://in.linkedin.com/jobs/view/investment-marketing-publisher-financial-publisher-at-innova-esi-4480333521"
-    },
-    "query": "\"stock market\" AND writer",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4479322571",
-      "title": "Healthcare Intelligence & Editorial Writer",
-      "company": "thefrontier.health",
-      "location": "Bangkok, Bangkok City, Thailand",
-      "posted": "1 hour ago",
-      "posted_date": "2026-10-16",
-      "link": "https://th.linkedin.com/jobs/view/healthcare-intelligence-editorial-writer-at-thefrontier-health-4479322571"
-    },
-    "query": "\"stock market\" AND writer",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4479194982",
-      "title": "Remote Series 16 Supervisory Analyst/Editor – U.S. based",
-      "company": "Dawn Taylor",
-      "location": "United States",
-      "posted": "6 hours ago",
-      "posted_date": "2026-10-16",
-      "link": "https://www.linkedin.com/jobs/view/remote-series-16-supervisory-analyst-editor-%E2%80%93-u-s-based-at-dawn-taylor-4479194982"
-    },
-    "query": "\"stock market\" AND writer",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4480342006",
-      "title": "Research Officer",
-      "company": "Flexiple",
-      "location": "India",
-      "posted": "1 hour ago",
-      "posted_date": "2026-10-16",
-      "link": "https://in.linkedin.com/jobs/view/research-officer-at-flexiple-4480342006"
-    },
-    "query": "\"stock market\" AND writer",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4477362337",
-      "title": "Content Specialist - Wealth Management",
-      "company": "Acuity Analytics",
-      "location": "Colombo, Western Province, Sri Lanka",
-      "posted": "1 hour ago",
-      "posted_date": "2026-10-16",
-      "link": "https://lk.linkedin.com/jobs/view/content-specialist-wealth-management-at-acuity-analytics-4477362337"
-    },
-    "query": "\"stock market\" AND writer",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4477360319",
-      "title": "Senior Features Writer",
-      "company": "Bloomberg",
-      "location": "New York, NY",
-      "posted": "2 hours ago",
-      "posted_date": "2026-10-16",
-      "link": "https://www.linkedin.com/jobs/view/senior-features-writer-at-bloomberg-4477360319"
-    },
-    "query": "\"stock market\" AND writer",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4477328719",
-      "title": "Fashion Writer",
-      "company": "Hearst Magazines",
-      "location": "New York, NY",
-      "posted": "9 hours ago",
-      "posted_date": "2026-10-15",
-      "link": "https://www.linkedin.com/jobs/view/fashion-writer-at-hearst-magazines-4477328719"
-    },
-    "query": "\"stock market\" AND writer",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4477357507",
-      "title": "Senior Editor, Markets Magazine",
-      "company": "Bloomberg",
-      "location": "New York, NY",
-      "posted": "2 hours ago",
-      "posted_date": "2026-10-16",
-      "link": "https://www.linkedin.com/jobs/view/senior-editor-markets-magazine-at-bloomberg-4477357507"
-    },
-    "query": "\"stock market\" AND writer",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4479798911",
-      "title": "Perfil sénior de Redacción de contenidos",
-      "company": "Prodigioso Volcán",
-      "location": "Madrid, Community of Madrid, Spain",
-      "posted": "22 hours ago",
-      "posted_date": "2026-10-15",
-      "link": "https://es.linkedin.com/jobs/view/perfil-s%C3%A9nior-de-redacci%C3%B3n-de-contenidos-at-prodigioso-volc%C3%A1n-4479798911"
-    },
-    "query": "\"stock market\" AND writer",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4479881482",
-      "title": "Senior Content Editor (No AI Writing, Human Content Only)",
-      "company": "Perfect Clicks LLC",
-      "location": "Mumbai, Maharashtra, India",
-      "posted": "15 hours ago",
-      "posted_date": "2026-10-15",
-      "link": "https://in.linkedin.com/jobs/view/senior-content-editor-no-ai-writing-human-content-only-at-perfect-clicks-llc-4479881482"
-    },
-    "query": "\"stock market\" AND writer",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4440195822",
-      "title": "Equity Research Associate – FinTech",
-      "company": "Financial Technology Partners / FT Partners",
-      "location": "San Francisco Bay Area",
-      "posted": "18 hours ago",
-      "posted_date": "2026-10-15",
-      "link": "https://www.linkedin.com/jobs/view/equity-research-associate-%E2%80%93-fintech-at-financial-technology-partners-ft-partners-4440195822"
-    },
-    "query": "\"stock market\" AND writer",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4480195757",
-      "title": "Especialista en Marketing de Contenido",
-      "company": "Instacredit",
-      "location": "San Pedro, San Jose, Costa Rica",
-      "posted": "6 hours ago",
-      "posted_date": "2026-10-16",
-      "link": "https://cr.linkedin.com/jobs/view/especialista-en-marketing-de-contenido-at-instacredit-4480195757"
-    },
-    "query": "fintech AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4480314041",
-      "title": "Content Strategist",
-      "company": "Ratehub.ca",
-      "location": "Toronto, Ontario, Canada",
-      "posted": "6 hours ago",
-      "posted_date": "2026-10-16",
-      "link": "https://ca.linkedin.com/jobs/view/content-strategist-at-ratehub-ca-4480314041"
-    },
-    "query": "fintech AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4477291634",
-      "title": "Copywriter",
-      "company": "Screen + Surface",
-      "location": "Makati, National Capital Region, Philippines",
-      "posted": "14 minutes ago",
-      "posted_date": "2026-10-16",
-      "link": "https://ph.linkedin.com/jobs/view/copywriter-at-screen-%2B-surface-4477291634"
-    },
-    "query": "fintech AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4479813090",
-      "title": "Social Media Coordinator",
-      "company": "MiFinity",
-      "location": "Ta' Xbiex, Ta' Xbiex, Malta",
-      "posted": "22 hours ago",
-      "posted_date": "2026-10-15",
-      "link": "https://mt.linkedin.com/jobs/view/social-media-coordinator-at-mifinity-4479813090"
-    },
-    "query": "fintech AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4479794975",
-      "title": "Social Media Coordinator",
-      "company": "MiFinity",
-      "location": "Dublin, County Dublin, Ireland",
-      "posted": "22 hours ago",
-      "posted_date": "2026-10-15",
-      "link": "https://ie.linkedin.com/jobs/view/social-media-coordinator-at-mifinity-4479794975"
-    },
-    "query": "fintech AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4479838749",
-      "title": "Associate, B2B Marketing (Shopee Counter) - ShopeePay",
-      "company": "Monee",
-      "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
-      "posted": "17 hours ago",
-      "posted_date": "2026-10-15",
-      "link": "https://vn.linkedin.com/jobs/view/associate-b2b-marketing-shopee-counter-shopeepay-at-monee-4479838749"
-    },
-    "query": "fintech AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4479863158",
-      "title": "Product Marketing Lead",
-      "company": "GoTyme Bank",
-      "location": "Cape Town, Western Cape, South Africa",
-      "posted": "16 hours ago",
-      "posted_date": "2026-10-15",
-      "link": "https://za.linkedin.com/jobs/view/product-marketing-lead-at-gotyme-bank-4479863158"
-    },
-    "query": "fintech AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4479874590",
-      "title": "Digital Campaign Specialist (Financial Services)",
-      "company": "Omni",
-      "location": "Lagos, Lagos State, Nigeria",
-      "posted": "16 hours ago",
-      "posted_date": "2026-10-15",
-      "link": "https://ng.linkedin.com/jobs/view/digital-campaign-specialist-financial-services-at-omni-4479874590"
-    },
-    "query": "fintech AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
       "id": "4479794782",
       "title": "Senior Content Designer",
       "company": "Moniepoint Group",
@@ -19339,6 +19079,201 @@
       "posted": "20 hours ago",
       "posted_date": "2026-10-25",
       "link": "https://www.linkedin.com/jobs/view/product-marketing-manager-metals-at-s-p-global-4482671465"
+    },
+    "query": "forex trading AND \"content writer\"",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4482695949",
+      "title": "Content & Copywriter – PropTech (Real Estate)",
+      "company": "York Towers",
+      "location": "Cairo, Cairo, Egypt",
+      "posted": "21 minutes ago",
+      "posted_date": "2026-10-26",
+      "link": "https://eg.linkedin.com/jobs/view/content-copywriter-%E2%80%93-proptech-real-estate-at-york-towers-4482695949"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4483510794",
+      "title": "Growth Marketing Manager (AI-native)",
+      "company": "Cobo",
+      "location": "Singapore, Singapore",
+      "posted": "1 hour ago",
+      "posted_date": "2026-10-26",
+      "link": "https://sg.linkedin.com/jobs/view/growth-marketing-manager-ai-native-at-cobo-4483510794"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4483524170",
+      "title": "Growth Marketing Manager (AI-native)",
+      "company": "Cobo",
+      "location": "Hong Kong, Hong Kong SAR",
+      "posted": "1 hour ago",
+      "posted_date": "2026-10-26",
+      "link": "https://hk.linkedin.com/jobs/view/growth-marketing-manager-ai-native-at-cobo-4483524170"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4481401855",
+      "title": "B2B CONTENT & KNOWLEDGE SPECIALIST",
+      "company": "RENOMIA",
+      "location": "Prague, Prague, Czechia",
+      "posted": "4 minutes ago",
+      "posted_date": "2026-10-26",
+      "link": "https://cz.linkedin.com/jobs/view/b2b-content-knowledge-specialist-at-renomia-4481401855"
+    },
+    "query": "crypto AND \"content writer\"",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4482679728",
+      "title": "Junior Content Writer (Remote)",
+      "company": "crewlia",
+      "location": "United States",
+      "posted": "12 hours ago",
+      "posted_date": "2026-10-25",
+      "link": "https://www.linkedin.com/jobs/view/junior-content-writer-remote-at-crewlia-4482679728"
+    },
+    "query": "crypto AND \"content writer\"",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4482677550",
+      "title": "Youtube Content Writer (Gaming)",
+      "company": "Visualview Media",
+      "location": "India",
+      "posted": "15 hours ago",
+      "posted_date": "2026-10-25",
+      "link": "https://in.linkedin.com/jobs/view/youtube-content-writer-gaming-at-visualview-media-4482677550"
+    },
+    "query": "crypto AND \"content writer\"",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4482914293",
+      "title": "Chief Storyteller",
+      "company": "VoxNexus",
+      "location": "United States",
+      "posted": "Just now",
+      "posted_date": "2026-10-26",
+      "link": "https://www.linkedin.com/jobs/view/chief-storyteller-at-voxnexus-4482914293"
+    },
+    "query": "web3 AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4463976373",
+      "title": "Legal Consultant - Digital Asset or ECM / Structured Products (Remote)",
+      "company": "Axiom",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "posted": "30 minutes ago",
+      "posted_date": "2026-10-26",
+      "link": "https://ae.linkedin.com/jobs/view/legal-consultant-digital-asset-or-ecm-structured-products-remote-at-axiom-4463976373"
+    },
+    "query": "DeFi AND writer",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4483505878",
+      "title": "Technical Writer",
+      "company": "GamblingCareers.com",
+      "location": "Cracow, Małopolskie, Poland",
+      "posted": "2 hours ago",
+      "posted_date": "2026-10-26",
+      "link": "https://pl.linkedin.com/jobs/view/technical-writer-at-gamblingcareers-com-4483505878"
+    },
+    "query": "DeFi AND writer",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4481076967",
+      "title": "Marketing Content Specialist",
+      "company": "PNLFINANCIALS LLC",
+      "location": "Lagos, Lagos State, Nigeria",
+      "posted": "1 hour ago",
+      "posted_date": "2026-10-26",
+      "link": "https://ng.linkedin.com/jobs/view/marketing-content-specialist-at-pnlfinancials-llc-4481076967"
+    },
+    "query": "forex AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4482904652",
+      "title": "Junior Copywriter",
+      "company": "TBWA\\Australia",
+      "location": "Sydney, New South Wales, Australia",
+      "posted": "2 hours ago",
+      "posted_date": "2026-10-26",
+      "link": "https://au.linkedin.com/jobs/view/junior-copywriter-at-tbwa-australia-4482904652"
+    },
+    "query": "forex AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4482693962",
+      "title": "Senior Writer",
+      "company": "Distilleri",
+      "location": "Singapore",
+      "posted": "1 hour ago",
+      "posted_date": "2026-10-26",
+      "link": "https://sg.linkedin.com/jobs/view/senior-writer-at-distilleri-4482693962"
+    },
+    "query": "\"stock market\" AND writer",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4481409396",
+      "title": "Equity Research Associate | Gaming & Classifieds",
+      "company": "Macquarie Group",
+      "location": "Sydney, New South Wales, Australia",
+      "posted": "3 hours ago",
+      "posted_date": "2026-10-25",
+      "link": "https://au.linkedin.com/jobs/view/equity-research-associate-gaming-classifieds-at-macquarie-group-4481409396"
+    },
+    "query": "\"stock market\" AND writer",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4424774400",
+      "title": "Lead Analyst/Principal Analyst/Associate Director – Fundamental Equities (Privates)",
+      "company": "D. E. Shaw India Private Limited",
+      "location": "Hyderabad, Telangana, India",
+      "posted": "17 hours ago",
+      "posted_date": "2026-10-25",
+      "link": "https://in.linkedin.com/jobs/view/lead-analyst-principal-analyst-associate-director-%E2%80%93-fundamental-equities-privates-at-d-e-shaw-india-private-limited-4424774400"
+    },
+    "query": "\"stock market\" AND writer",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4483506888",
+      "title": "SEO Executive",
+      "company": "Ultima Markets",
+      "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+      "posted": "2 hours ago",
+      "posted_date": "2026-10-26",
+      "link": "https://my.linkedin.com/jobs/view/seo-executive-at-ultima-markets-4483506888"
     },
     "query": "forex trading AND \"content writer\"",
     "attempts": 0
