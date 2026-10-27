@@ -20681,5 +20681,83 @@
     },
     "query": "\"stock market\" AND copywriter",
     "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4483752810",
+      "title": "Copywriter II- WFH",
+      "company": "Torentify",
+      "location": "United States",
+      "posted": "4 hours ago",
+      "posted_date": "2026-10-26",
+      "link": "https://www.linkedin.com/jobs/view/copywriter-ii-wfh-at-torentify-4483752810"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4481832046",
+      "title": "Copywriter",
+      "company": "Beyond Bank Australia",
+      "location": "Melbourne, Victoria, Australia",
+      "posted": "2 hours ago",
+      "posted_date": "2026-10-27",
+      "link": "https://au.linkedin.com/jobs/view/copywriter-at-beyond-bank-australia-4481832046"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4481827341",
+      "title": "Copywriter",
+      "company": "Beyond Bank Australia",
+      "location": "Adelaide, South Australia, Australia",
+      "posted": "2 hours ago",
+      "posted_date": "2026-10-27",
+      "link": "https://au.linkedin.com/jobs/view/copywriter-at-beyond-bank-australia-4481827341"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4483775798",
+      "title": "SEO Content Specialist",
+      "company": "lowercase b2b",
+      "location": "Brazil",
+      "posted": "2 hours ago",
+      "posted_date": "2026-10-27",
+      "link": "https://br.linkedin.com/jobs/view/seo-content-specialist-at-lowercase-b2b-4483775798"
+    },
+    "query": "web3 AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4483271020",
+      "title": "Direct Response Copywriter",
+      "company": "Wisevu",
+      "location": "Greater Buenos Aires",
+      "posted": "5 hours ago",
+      "posted_date": "2026-10-26",
+      "link": "https://ar.linkedin.com/jobs/view/direct-response-copywriter-at-wisevu-4483271020"
+    },
+    "query": "forex AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4483293085",
+      "title": "Social Media Manager",
+      "company": "PipsForex Limited",
+      "location": "Surat, Gujarat, India",
+      "posted": "49 minutes ago",
+      "posted_date": "2026-10-27",
+      "link": "https://in.linkedin.com/jobs/view/social-media-manager-at-pipsforex-limited-4483293085"
+    },
+    "query": "forex AND \"content writer\"",
+    "attempts": 0
   }
 ]
