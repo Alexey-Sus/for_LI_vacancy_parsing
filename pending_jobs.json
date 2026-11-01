@@ -1,266 +1,6 @@
 [
   {
     "job": {
-      "id": "4480897509",
-      "title": "Content Writer",
-      "company": "TaskVerse",
-      "location": "United States",
-      "posted": "2 hours ago",
-      "posted_date": "2026-10-18",
-      "link": "https://www.linkedin.com/jobs/view/content-writer-at-taskverse-4480897509"
-    },
-    "query": "web3 AND copywriter",
-    "attempts": 2
-  },
-  {
-    "job": {
-      "id": "4453715118",
-      "title": "Group Copy Supervisor (DTC Pharmaceutical Experience Required)",
-      "company": "EVERSANA INTOUCH",
-      "location": "Chicago, IL",
-      "posted": "6 hours ago",
-      "posted_date": "2026-10-18",
-      "link": "https://www.linkedin.com/jobs/view/group-copy-supervisor-dtc-pharmaceutical-experience-required-at-eversana-intouch-4453715118"
-    },
-    "query": "\"stock market\" AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4454834983",
-      "title": "Models Marketing Manager - J.P. Morgan Asset Management",
-      "company": "JPMorganChase",
-      "location": "New York, NY",
-      "posted": "6 hours ago",
-      "posted_date": "2026-10-18",
-      "link": "https://www.linkedin.com/jobs/view/models-marketing-manager-j-p-morgan-asset-management-at-jpmorganchase-4454834983"
-    },
-    "query": "\"stock market\" AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4479926061",
-      "title": "Senior Copywriter ( Contract )",
-      "company": "Twin Rams Media Group",
-      "location": "Taguig, National Capital Region, Philippines",
-      "posted": "7 hours ago",
-      "posted_date": "2026-10-18",
-      "link": "https://ph.linkedin.com/jobs/view/senior-copywriter-contract-at-twin-rams-media-group-4479926061"
-    },
-    "query": "\"stock market\" AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4432398622",
-      "title": "Copy Supervisor",
-      "company": "Inizio Evoke",
-      "location": "San Francisco, CA",
-      "posted": "6 hours ago",
-      "posted_date": "2026-10-18",
-      "link": "https://www.linkedin.com/jobs/view/copy-supervisor-at-inizio-evoke-4432398622"
-    },
-    "query": "\"stock market\" AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4462308180",
-      "title": "Associate Creative Director, Copy (Pharma Ad Agency Experience Required)",
-      "company": "EVERSANA INTOUCH",
-      "location": "Chicago, IL",
-      "posted": "6 hours ago",
-      "posted_date": "2026-10-18",
-      "link": "https://www.linkedin.com/jobs/view/associate-creative-director-copy-pharma-ad-agency-experience-required-at-eversana-intouch-4462308180"
-    },
-    "query": "\"stock market\" AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4462312161",
-      "title": "Senior Copywriter- Promotional Medical Writing",
-      "company": "Precision AQ",
-      "location": "Philadelphia, PA",
-      "posted": "2 hours ago",
-      "posted_date": "2026-10-18",
-      "link": "https://www.linkedin.com/jobs/view/senior-copywriter-promotional-medical-writing-at-precision-aq-4462312161"
-    },
-    "query": "\"stock market\" AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4462314138",
-      "title": "Senior Copywriter- Promotional Medical Writing",
-      "company": "Precision AQ",
-      "location": "Raleigh, NC",
-      "posted": "1 hour ago",
-      "posted_date": "2026-10-18",
-      "link": "https://www.linkedin.com/jobs/view/senior-copywriter-promotional-medical-writing-at-precision-aq-4462314138"
-    },
-    "query": "\"stock market\" AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4479928140",
-      "title": "Sr. Copy Writer Executive",
-      "company": "Let's Build Brands",
-      "location": "Delhi, India",
-      "posted": "5 hours ago",
-      "posted_date": "2026-10-18",
-      "link": "https://in.linkedin.com/jobs/view/sr-copy-writer-executive-at-let-s-build-brands-4479928140"
-    },
-    "query": "\"stock market\" AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4478202678",
-      "title": "国际业务中心-国际研究实习生(J10410)",
-      "company": "CITIC Futures",
-      "location": "Shanghai, Shanghai, China",
-      "posted": "9 hours ago",
-      "posted_date": "2026-10-18",
-      "link": "https://cn.linkedin.com/jobs/view/%E5%9B%BD%E9%99%85%E4%B8%9A%E5%8A%A1%E4%B8%AD%E5%BF%83-%E5%9B%BD%E9%99%85%E7%A0%94%E7%A9%B6%E5%AE%9E%E4%B9%A0%E7%94%9F-j10410-at-citic-futures-4478202678"
-    },
-    "query": "forex trading AND \"content writer\"",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4479913780",
-      "title": "Marketing Intern",
-      "company": "Zetheta Algorithms Private Limited",
-      "location": "India",
-      "posted": "5 hours ago",
-      "posted_date": "2026-10-18",
-      "link": "https://in.linkedin.com/jobs/view/marketing-intern-at-zetheta-algorithms-private-limited-4479913780"
-    },
-    "query": "forex trading AND \"content writer\"",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4478200779",
-      "title": "实习生",
-      "company": "远东资信评估有限公司",
-      "location": "Beijing, Beijing, China",
-      "posted": "9 hours ago",
-      "posted_date": "2026-10-18",
-      "link": "https://cn.linkedin.com/jobs/view/%E5%AE%9E%E4%B9%A0%E7%94%9F-at-%E8%BF%9C%E4%B8%9C%E8%B5%84%E4%BF%A1%E8%AF%84%E4%BC%B0%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-4478200779"
-    },
-    "query": "forex trading AND \"content writer\"",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4478208611",
-      "title": "Sr. Brand Copywriter [SK-22824]",
-      "company": "Skill",
-      "location": "Dallas, TX",
-      "posted": "7 hours ago",
-      "posted_date": "2026-10-18",
-      "link": "https://www.linkedin.com/jobs/view/sr-brand-copywriter-sk-22824-at-skill-4478208611"
-    },
-    "query": "forex trading AND \"content writer\"",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4463639902",
-      "title": "Senior Copywriter II",
-      "company": "Tabby | تابي",
-      "location": "Riyadh, Saudi Arabia",
-      "posted": "43 minutes ago",
-      "posted_date": "2026-10-18",
-      "link": "https://sa.linkedin.com/jobs/view/senior-copywriter-ii-at-tabby-%D8%AA%D8%A7%D8%A8%D9%8A-4463639902"
-    },
-    "query": "crypto AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4479945170",
-      "title": "Blog Content Specialist",
-      "company": "crewlia",
-      "location": "United States",
-      "posted": "1 hour ago",
-      "posted_date": "2026-10-18",
-      "link": "https://www.linkedin.com/jobs/view/blog-content-specialist-at-crewlia-4479945170"
-    },
-    "query": "crypto AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4478241000",
-      "title": "Content Writer",
-      "company": "Zynith Labs",
-      "location": "Chennai, Tamil Nadu, India",
-      "posted": "57 minutes ago",
-      "posted_date": "2026-10-18",
-      "link": "https://in.linkedin.com/jobs/view/content-writer-at-zynith-labs-4478241000"
-    },
-    "query": "crypto AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4480901831",
-      "title": "Senior Copywriter, SEO & AEO",
-      "company": "Viva Talent",
-      "location": "Latin America",
-      "posted": "1 hour ago",
-      "posted_date": "2026-10-18",
-      "link": "https://www.linkedin.com/jobs/view/senior-copywriter-seo-aeo-at-viva-talent-4480901831"
-    },
-    "query": "crypto AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4480909512",
-      "title": "Senior Copywriter",
-      "company": "Viva Talent",
-      "location": "Colombia",
-      "posted": "1 hour ago",
-      "posted_date": "2026-10-18",
-      "link": "https://co.linkedin.com/jobs/view/senior-copywriter-at-viva-talent-4480909512"
-    },
-    "query": "crypto AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4480900953",
-      "title": "Digital Marketing Specialist",
-      "company": "Aetheria Group",
-      "location": "Islamabad, Islāmābād, Pakistan",
-      "posted": "3 minutes ago",
-      "posted_date": "2026-10-18",
-      "link": "https://pk.linkedin.com/jobs/view/digital-marketing-specialist-at-aetheria-group-4480900953"
-    },
-    "query": "crypto AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4480916197",
-      "title": "Senior Content Creator",
-      "company": "Confidential",
-      "location": "Qesm El Doki, Al Jizah, Egypt",
-      "posted": "16 minutes ago",
-      "posted_date": "2026-10-18",
-      "link": "https://eg.linkedin.com/jobs/view/senior-content-creator-at-confidential-4480916197"
-    },
-    "query": "crypto AND \"content writer\"",
-    "attempts": 0
-  },
-  {
-    "job": {
       "id": "4433667389",
       "title": "Lead Content Writer and Editor",
       "company": "Vialto",
@@ -26400,6 +26140,149 @@
       "link": "https://nl.linkedin.com/jobs/view/global-markets-traineeship-at-abn-amro-bank-n-v-4485359909"
     },
     "query": "forex trading AND \"content writer\"",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4483974148",
+      "title": "文案策划",
+      "company": "上海翔芯集成电路有限公司",
+      "location": "Shanghai, Shanghai, China",
+      "posted": "1 hour ago",
+      "posted_date": "2026-11-01",
+      "link": "https://cn.linkedin.com/jobs/view/%E6%96%87%E6%A1%88%E7%AD%96%E5%88%92-at-%E4%B8%8A%E6%B5%B7%E7%BF%94%E8%8A%AF%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-4483974148"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4485943016",
+      "title": "Copywriter",
+      "company": "Globaltize",
+      "location": "Philippines",
+      "posted": "4 hours ago",
+      "posted_date": "2026-11-01",
+      "link": "https://ph.linkedin.com/jobs/view/copywriter-at-globaltize-4485943016"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4483968402",
+      "title": "B2B CONTENT & KNOWLEDGE SPECIALIST",
+      "company": "RENOMIA",
+      "location": "Prague, Prague, Czechia",
+      "posted": "1 hour ago",
+      "posted_date": "2026-11-01",
+      "link": "https://cz.linkedin.com/jobs/view/b2b-content-knowledge-specialist-at-renomia-4483968402"
+    },
+    "query": "crypto AND \"content writer\"",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4485932290",
+      "title": "Redactor Creativo",
+      "company": "Empresa Confidencial",
+      "location": "Pichincha, Ecuador",
+      "posted": "3 hours ago",
+      "posted_date": "2026-11-01",
+      "link": "https://ec.linkedin.com/jobs/view/redactor-creativo-at-empresa-confidencial-4485932290"
+    },
+    "query": "crypto AND \"content writer\"",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4483957046",
+      "title": "Content Creator",
+      "company": "Go Puppy",
+      "location": "Cairo, Egypt",
+      "posted": "13 hours ago",
+      "posted_date": "2026-10-31",
+      "link": "https://eg.linkedin.com/jobs/view/content-creator-at-go-puppy-4483957046"
+    },
+    "query": "crypto AND \"content writer\"",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4483974132",
+      "title": "文案策划",
+      "company": "智境科技",
+      "location": "Beijing, Beijing, China",
+      "posted": "1 hour ago",
+      "posted_date": "2026-11-01",
+      "link": "https://cn.linkedin.com/jobs/view/%E6%96%87%E6%A1%88%E7%AD%96%E5%88%92-at-%E6%99%BA%E5%A2%83%E7%A7%91%E6%8A%80-4483974132"
+    },
+    "query": "web3 AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4483925790",
+      "title": "Content Writer – Digital Media",
+      "company": "TOPKLICKZ",
+      "location": "Dantiwada, Gujarat, India",
+      "posted": "20 hours ago",
+      "posted_date": "2026-10-31",
+      "link": "https://in.linkedin.com/jobs/view/content-writer-%E2%80%93-digital-media-at-topklickz-4483925790"
+    },
+    "query": "web3 AND \"content writer\"",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4483960780",
+      "title": "意语文案",
+      "company": "深圳市金畅进出口有限公司",
+      "location": "Shenzhen, Guangdong, China",
+      "posted": "1 hour ago",
+      "posted_date": "2026-11-01",
+      "link": "https://cn.linkedin.com/jobs/view/%E6%84%8F%E8%AF%AD%E6%96%87%E6%A1%88-at-%E6%B7%B1%E5%9C%B3%E5%B8%82%E9%87%91%E7%95%85%E8%BF%9B%E5%87%BA%E5%8F%A3%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-4483960780"
+    },
+    "query": "trading AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4483931640",
+      "title": "Content Writer",
+      "company": "Asticom Technology Inc.",
+      "location": "Taguig, National Capital Region, Philippines",
+      "posted": "21 hours ago",
+      "posted_date": "2026-10-31",
+      "link": "https://ph.linkedin.com/jobs/view/content-writer-at-asticom-technology-inc-4483931640"
+    },
+    "query": "\"stock market\" AND writer",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4484850077",
+      "title": "Sinhala Copy Writer",
+      "company": "Sense Imagery",
+      "location": "Battaramulla, Western Province, Sri Lanka",
+      "posted": "14 hours ago",
+      "posted_date": "2026-10-31",
+      "link": "https://lk.linkedin.com/jobs/view/sinhala-copy-writer-at-sense-imagery-4484850077"
+    },
+    "query": "\"stock market\" AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4483934243",
+      "title": "Performance Marketing Executive",
+      "company": "Tawkeed Investment LLC",
+      "location": "Dubai, United Arab Emirates",
+      "posted": "21 hours ago",
+      "posted_date": "2026-10-31",
+      "link": "https://ae.linkedin.com/jobs/view/performance-marketing-executive-at-tawkeed-investment-llc-4483934243"
+    },
+    "query": "forex trading AND copywriter",
     "attempts": 0
   }
 ]
