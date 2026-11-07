@@ -33109,5 +33109,83 @@
     },
     "query": "crypto AND \"content writer\"",
     "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4487612672",
+      "title": "Copywriter",
+      "company": "Grupo Mambo",
+      "location": "Madrid, Community of Madrid, Spain",
+      "posted": "3 hours ago",
+      "posted_date": "2026-11-07",
+      "link": "https://es.linkedin.com/jobs/view/copywriter-at-grupo-mambo-4487612672"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4486668082",
+      "title": "UX Writer for Customer Communication",
+      "company": "Banco Plata",
+      "location": "Puebla, Puebla, Mexico",
+      "posted": "1 hour ago",
+      "posted_date": "2026-11-07",
+      "link": "https://mx.linkedin.com/jobs/view/ux-writer-for-customer-communication-at-banco-plata-4486668082"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4487613812",
+      "title": "Copywriter",
+      "company": "Ku Creatives Unlimited",
+      "location": "Jakarta, Jakarta, Indonesia",
+      "posted": "21 hours ago",
+      "posted_date": "2026-11-07",
+      "link": "https://id.linkedin.com/jobs/view/copywriter-at-ku-creatives-unlimited-4487613812"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4487391318",
+      "title": "Senior Copywriter - 1551 - Cape Town, South Africa",
+      "company": "Bionic Talent",
+      "location": "South Africa",
+      "posted": "17 hours ago",
+      "posted_date": "2026-11-07",
+      "link": "https://za.linkedin.com/jobs/view/senior-copywriter-1551-cape-town-south-africa-at-bionic-talent-4487391318"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4487350811",
+      "title": "Senior Creative Strategist (direct response)",
+      "company": "Dogbiotics",
+      "location": "Lithuania",
+      "posted": "22 hours ago",
+      "posted_date": "2026-11-06",
+      "link": "https://lt.linkedin.com/jobs/view/senior-creative-strategist-direct-response-at-dogbiotics-4487350811"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4486659275",
+      "title": "Content writer - LATAM",
+      "company": "North Star Network",
+      "location": "León, Guanajuato, Mexico",
+      "posted": "1 hour ago",
+      "posted_date": "2026-11-07",
+      "link": "https://mx.linkedin.com/jobs/view/content-writer-latam-at-north-star-network-4486659275"
+    },
+    "query": "crypto AND \"content writer\"",
+    "attempts": 0
   }
 ]
