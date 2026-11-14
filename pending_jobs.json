@@ -1,266 +1,6 @@
 [
   {
     "job": {
-      "id": "4472590030",
-      "title": "Associate Director, Leveraged Finance Reporter (New York)",
-      "company": "CreditSights",
-      "location": "New York, NY",
-      "posted": "2 hours ago",
-      "posted_date": "2026-10-22",
-      "link": "https://www.linkedin.com/jobs/view/associate-director-leveraged-finance-reporter-new-york-at-creditsights-4472590030"
-    },
-    "query": "\"stock market\" AND writer",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4481368414",
-      "title": "Chemical Week Reporter, Asian Chemical Markets",
-      "company": "S&P Global",
-      "location": "Singapore, Singapore",
-      "posted": "5 hours ago",
-      "posted_date": "2026-10-22",
-      "link": "https://sg.linkedin.com/jobs/view/chemical-week-reporter-asian-chemical-markets-at-s-p-global-4481368414"
-    },
-    "query": "\"stock market\" AND writer",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4479490753",
-      "title": "VoetbalNieuws Redactiemedewerker",
-      "company": "PXR Media",
-      "location": "Amsterdam, North Holland, Netherlands",
-      "posted": "13 hours ago",
-      "posted_date": "2026-10-22",
-      "link": "https://nl.linkedin.com/jobs/view/voetbalnieuws-redactiemedewerker-at-pxr-media-4479490753"
-    },
-    "query": "\"stock market\" AND writer",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4482183138",
-      "title": "Product Intel Associate",
-      "company": "Engage PSG Search",
-      "location": "United States",
-      "posted": "22 hours ago",
-      "posted_date": "2026-10-21",
-      "link": "https://www.linkedin.com/jobs/view/product-intel-associate-at-engage-psg-search-4482183138"
-    },
-    "query": "\"stock market\" AND writer",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4472630449",
-      "title": "Content Creator - Finnish and Swedish speaking",
-      "company": "Anyfin",
-      "location": "Stockholm, Stockholm County, Sweden",
-      "posted": "6 hours ago",
-      "posted_date": "2026-10-22",
-      "link": "https://se.linkedin.com/jobs/view/content-creator-finnish-and-swedish-speaking-at-anyfin-4472630449"
-    },
-    "query": "fintech AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4472152682",
-      "title": "Product Marketer, T:0",
-      "company": "Airwallex",
-      "location": "San Francisco, CA",
-      "posted": "7 hours ago",
-      "posted_date": "2026-10-22",
-      "link": "https://www.linkedin.com/jobs/view/product-marketer-t-0-at-airwallex-4472152682"
-    },
-    "query": "fintech AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4481379952",
-      "title": "Performance Marketer",
-      "company": "Sambla Group",
-      "location": "Stockholm, Stockholm County, Sweden",
-      "posted": "2 hours ago",
-      "posted_date": "2026-10-22",
-      "link": "https://se.linkedin.com/jobs/view/performance-marketer-at-sambla-group-4481379952"
-    },
-    "query": "fintech AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4481352976",
-      "title": "Senior Writer, Borrowing",
-      "company": "Monzo",
-      "location": "London, England, United Kingdom",
-      "posted": "5 hours ago",
-      "posted_date": "2026-10-22",
-      "link": "https://uk.linkedin.com/jobs/view/senior-writer-borrowing-at-monzo-4481352976"
-    },
-    "query": "fintech AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4482460828",
-      "title": "Senior Copywriter",
-      "company": "Havas Life Mumbai",
-      "location": "Mumbai, Maharashtra, India",
-      "posted": "8 hours ago",
-      "posted_date": "2026-10-22",
-      "link": "https://in.linkedin.com/jobs/view/senior-copywriter-at-havas-life-mumbai-4482460828"
-    },
-    "query": "\"stock market\" AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4480044564",
-      "title": "Conceptual Copywriter",
-      "company": "Capitec",
-      "location": "Stellenbosch, Western Cape, South Africa",
-      "posted": "6 hours ago",
-      "posted_date": "2026-10-22",
-      "link": "https://za.linkedin.com/jobs/view/conceptual-copywriter-at-capitec-4480044564"
-    },
-    "query": "\"stock market\" AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4480031797",
-      "title": "Stock Market Mentor-Telugu",
-      "company": "Entri",
-      "location": "Hyderabad, Telangana, India",
-      "posted": "7 hours ago",
-      "posted_date": "2026-10-22",
-      "link": "https://in.linkedin.com/jobs/view/stock-market-mentor-telugu-at-entri-4480031797"
-    },
-    "query": "forex trading AND \"content writer\"",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4474177917",
-      "title": "Senior Product Specialist, Senior Manager",
-      "company": "Fidelity International",
-      "location": "Tokyo, Japan",
-      "posted": "5 hours ago",
-      "posted_date": "2026-10-22",
-      "link": "https://jp.linkedin.com/jobs/view/senior-product-specialist-senior-manager-at-fidelity-international-4474177917"
-    },
-    "query": "forex trading AND \"content writer\"",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4480059251",
-      "title": "Staff Writer (French Speaker)",
-      "company": "Fever",
-      "location": "Madrid, Community of Madrid, Spain",
-      "posted": "5 hours ago",
-      "posted_date": "2026-10-22",
-      "link": "https://es.linkedin.com/jobs/view/staff-writer-french-speaker-at-fever-4480059251"
-    },
-    "query": "forex trading AND \"content writer\"",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4481665431",
-      "title": "Copywriter - Kraken Pro",
-      "company": "Jobgether",
-      "location": "Netherlands",
-      "posted": "24 minutes ago",
-      "posted_date": "2026-10-23",
-      "link": "https://nl.linkedin.com/jobs/view/copywriter-kraken-pro-at-jobgether-4481665431"
-    },
-    "query": "crypto AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4481656849",
-      "title": "Copywriter - Kraken Pro",
-      "company": "Jobgether",
-      "location": "France",
-      "posted": "24 minutes ago",
-      "posted_date": "2026-10-23",
-      "link": "https://fr.linkedin.com/jobs/view/copywriter-kraken-pro-at-jobgether-4481656849"
-    },
-    "query": "crypto AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4481654881",
-      "title": "Copywriter - Kraken Pro",
-      "company": "Jobgether",
-      "location": "Germany",
-      "posted": "24 minutes ago",
-      "posted_date": "2026-10-23",
-      "link": "https://de.linkedin.com/jobs/view/copywriter-kraken-pro-at-jobgether-4481654881"
-    },
-    "query": "crypto AND \"content writer\"",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4482835612",
-      "title": "Senior Marketing Associate",
-      "company": "DigiFT",
-      "location": "Singapore, Singapore",
-      "posted": "1 hour ago",
-      "posted_date": "2026-10-23",
-      "link": "https://sg.linkedin.com/jobs/view/senior-marketing-associate-at-digift-4482835612"
-    },
-    "query": "crypto AND \"content writer\"",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4481607842",
-      "title": "Product Marketing Lead",
-      "company": "dYdX",
-      "location": "New York, NY",
-      "posted": "11 hours ago",
-      "posted_date": "2026-10-22",
-      "link": "https://www.linkedin.com/jobs/view/product-marketing-lead-at-dydx-4481607842"
-    },
-    "query": "DeFi AND writer",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4481641872",
-      "title": "SEO Content Writer",
-      "company": "LNVS fintech",
-      "location": "New Delhi, Delhi, India",
-      "posted": "3 hours ago",
-      "posted_date": "2026-10-23",
-      "link": "https://in.linkedin.com/jobs/view/seo-content-writer-at-lnvs-fintech-4481641872"
-    },
-    "query": "DeFi AND writer",
-    "attempts": 0
-  },
-  {
-    "job": {
-      "id": "4481658858",
-      "title": "Copywriter - Kraken Pro",
-      "company": "Jobgether",
-      "location": "Switzerland",
-      "posted": "Just now",
-      "posted_date": "2026-10-23",
-      "link": "https://ch.linkedin.com/jobs/view/copywriter-kraken-pro-at-jobgether-4481658858"
-    },
-    "query": "forex AND copywriter",
-    "attempts": 0
-  },
-  {
-    "job": {
       "id": "4482842015",
       "title": "Senior Copywriter",
       "company": "Moneyview",
@@ -41194,6 +40934,344 @@
       "link": "https://www.linkedin.com/jobs/view/senior-manager-b2c-marketing-at-fidelity-investments-4490791224"
     },
     "query": "forex trading AND \"content writer\"",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4489336075",
+      "title": "Creative Copywriter (iGaming)",
+      "company": "Lestars Management Consultancy LLC",
+      "location": "Mexico",
+      "posted": "3 hours ago",
+      "posted_date": "2026-11-14",
+      "link": "https://mx.linkedin.com/jobs/view/creative-copywriter-igaming-at-lestars-management-consultancy-llc-4489336075"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4480691534",
+      "title": "Creative Lead",
+      "company": "Circle",
+      "location": "Greater Philadelphia",
+      "posted": "43 minutes ago",
+      "posted_date": "2026-11-14",
+      "link": "https://www.linkedin.com/jobs/view/creative-lead-at-circle-4480691534"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4489862710",
+      "title": "Customer Marketing Coordinator, Comms",
+      "company": "Rolejob",
+      "location": "New York, NY",
+      "posted": "5 hours ago",
+      "posted_date": "2026-11-14",
+      "link": "https://www.linkedin.com/jobs/view/customer-marketing-coordinator-comms-at-rolejob-4489862710"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4481004048",
+      "title": "Creative Lead",
+      "company": "Circle",
+      "location": "Greater Seattle Area",
+      "posted": "57 minutes ago",
+      "posted_date": "2026-11-14",
+      "link": "https://www.linkedin.com/jobs/view/creative-lead-at-circle-4481004048"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4489314998",
+      "title": "Senior Copy/Content Writer - English",
+      "company": "Adosphere",
+      "location": "Ahmedabad, Gujarat, India",
+      "posted": "1 hour ago",
+      "posted_date": "2026-11-14",
+      "link": "https://in.linkedin.com/jobs/view/senior-copy-content-writer-english-at-adosphere-4489314998"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4489327049",
+      "title": "Content Writer (Fintech)",
+      "company": "Troth Group",
+      "location": "Greater Ahmedabad Area",
+      "posted": "6 hours ago",
+      "posted_date": "2026-11-14",
+      "link": "https://in.linkedin.com/jobs/view/content-writer-fintech-at-troth-group-4489327049"
+    },
+    "query": "crypto AND \"content writer\"",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4491064159",
+      "title": "Content & Social Marketer",
+      "company": "Yonda",
+      "location": "London Area, United Kingdom",
+      "posted": "3 hours ago",
+      "posted_date": "2026-11-14",
+      "link": "https://uk.linkedin.com/jobs/view/content-social-marketer-at-yonda-4491064159"
+    },
+    "query": "crypto AND \"content writer\"",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4489321428",
+      "title": "Content Writer - Mexico",
+      "company": "North Star Network",
+      "location": "Zapopan, Jalisco, Mexico",
+      "posted": "5 hours ago",
+      "posted_date": "2026-11-14",
+      "link": "https://mx.linkedin.com/jobs/view/content-writer-mexico-at-north-star-network-4489321428"
+    },
+    "query": "crypto AND \"content writer\"",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4489308705",
+      "title": "Student Assistant - Copywriter (Danish)",
+      "company": "Gentoo Media",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "posted": "6 hours ago",
+      "posted_date": "2026-11-14",
+      "link": "https://dk.linkedin.com/jobs/view/student-assistant-copywriter-danish-at-gentoo-media-4489308705"
+    },
+    "query": "web3 AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4489337560",
+      "title": "SEO Copywriter [AQ-26715]",
+      "company": "Aquent",
+      "location": "Southbank, Victoria, Australia",
+      "posted": "37 minutes ago",
+      "posted_date": "2026-11-14",
+      "link": "https://au.linkedin.com/jobs/view/seo-copywriter-aq-26715-at-aquent-4489337560"
+    },
+    "query": "web3 AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4491061117",
+      "title": "CONTENT WRITIG & COPYWRITING TEAM",
+      "company": "HR360 Ethiopia",
+      "location": "Addis Ababa, Ethiopia",
+      "posted": "5 hours ago",
+      "posted_date": "2026-11-14",
+      "link": "https://et.linkedin.com/jobs/view/content-writig-copywriting-team-at-hr360-ethiopia-4491061117"
+    },
+    "query": "web3 AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4489868498",
+      "title": "Content Writer – Technology & AI",
+      "company": "Devine Globe Technologies",
+      "location": "Ahmedabad, Gujarat, India",
+      "posted": "5 hours ago",
+      "posted_date": "2026-11-14",
+      "link": "https://in.linkedin.com/jobs/view/content-writer-%E2%80%93-technology-ai-at-devine-globe-technologies-4489868498"
+    },
+    "query": "web3 AND \"content writer\"",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4488661749",
+      "title": "Junior Content Writer (SEO)",
+      "company": "Reflect Branding",
+      "location": "Ahmedabad, Gujarat, India",
+      "posted": "3 hours ago",
+      "posted_date": "2026-11-14",
+      "link": "https://in.linkedin.com/jobs/view/junior-content-writer-seo-at-reflect-branding-4488661749"
+    },
+    "query": "web3 AND \"content writer\"",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4480684896",
+      "title": "Creative Lead",
+      "company": "Circle",
+      "location": "Austin, Texas Metropolitan Area",
+      "posted": "55 minutes ago",
+      "posted_date": "2026-11-14",
+      "link": "https://www.linkedin.com/jobs/view/creative-lead-at-circle-4480684896"
+    },
+    "query": "DeFi AND writer",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4472568666",
+      "title": "Public Relations & Communications Manager",
+      "company": "Kraken",
+      "location": "Canada",
+      "posted": "32 minutes ago",
+      "posted_date": "2026-11-14",
+      "link": "https://ca.linkedin.com/jobs/view/public-relations-communications-manager-at-kraken-4472568666"
+    },
+    "query": "DeFi AND writer",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4472562797",
+      "title": "Public Relations & Communications Manager",
+      "company": "Kraken",
+      "location": "United States",
+      "posted": "9 minutes ago",
+      "posted_date": "2026-11-14",
+      "link": "https://www.linkedin.com/jobs/view/public-relations-communications-manager-at-kraken-4472562797"
+    },
+    "query": "DeFi AND writer",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4491003248",
+      "title": "Content Designer",
+      "company": "Motion Recruitment",
+      "location": "United States",
+      "posted": "14 hours ago",
+      "posted_date": "2026-11-13",
+      "link": "https://www.linkedin.com/jobs/view/content-designer-at-motion-recruitment-4491003248"
+    },
+    "query": "DeFi AND writer",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4490789820",
+      "title": "Director, Corporate Content",
+      "company": "IonQ",
+      "location": "Bothell, WA",
+      "posted": "14 hours ago",
+      "posted_date": "2026-11-13",
+      "link": "https://www.linkedin.com/jobs/view/director-corporate-content-at-ionq-4490789820"
+    },
+    "query": "blockchain AND \"content writer\"",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4489878782",
+      "title": "Content Writer (Academic)",
+      "company": "YMGrad",
+      "location": "Delhi, Delhi, India",
+      "posted": "47 minutes ago",
+      "posted_date": "2026-11-14",
+      "link": "https://in.linkedin.com/jobs/view/content-writer-academic-at-ymgrad-4489878782"
+    },
+    "query": "forex AND \"content writer\"",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4489344241",
+      "title": "Copywriter - Paid Media [AQ-26808]",
+      "company": "Aquent",
+      "location": "Durham, NC",
+      "posted": "40 minutes ago",
+      "posted_date": "2026-11-14",
+      "link": "https://www.linkedin.com/jobs/view/copywriter-paid-media-aq-26808-at-aquent-4489344241"
+    },
+    "query": "trading AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4491052721",
+      "title": "Script Writer",
+      "company": "Primetrace",
+      "location": "Bengaluru, Karnataka, India",
+      "posted": "3 hours ago",
+      "posted_date": "2026-11-14",
+      "link": "https://in.linkedin.com/jobs/view/script-writer-at-primetrace-4491052721"
+    },
+    "query": "trading AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4489554716",
+      "title": "Investment Research Analyst",
+      "company": "WCC Investment Advisors Pvt. Ltd.",
+      "location": "Noida, Uttar Pradesh, India",
+      "posted": "6 hours ago",
+      "posted_date": "2026-11-14",
+      "link": "https://in.linkedin.com/jobs/view/investment-research-analyst-at-wcc-investment-advisors-pvt-ltd-4489554716"
+    },
+    "query": "\"stock market\" AND writer",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4491060233",
+      "title": "Editorial Staff",
+      "company": "Being Sane Media",
+      "location": "Gurugram, Haryana, India",
+      "posted": "4 hours ago",
+      "posted_date": "2026-11-14",
+      "link": "https://in.linkedin.com/jobs/view/editorial-staff-at-being-sane-media-4491060233"
+    },
+    "query": "\"stock market\" AND writer",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4490201102",
+      "title": "Copy Writer",
+      "company": "Ditto Insurance",
+      "location": "Bengaluru, Karnataka, India",
+      "posted": "13 minutes ago",
+      "posted_date": "2026-11-14",
+      "link": "https://in.linkedin.com/jobs/view/copy-writer-at-ditto-insurance-4490201102"
+    },
+    "query": "fintech AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4490752839",
+      "title": "Responsable CRM Lending",
+      "company": "Spin",
+      "location": "Mexico City, Mexico",
+      "posted": "19 hours ago",
+      "posted_date": "2026-11-13",
+      "link": "https://mx.linkedin.com/jobs/view/responsable-crm-lending-at-spin-4490752839"
+    },
+    "query": "fintech AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4489880011",
+      "title": "Sales And Marketing",
+      "company": "SHARDA CONSULTANCY SERVICES",
+      "location": "Gurugram, Haryana, India",
+      "posted": "4 hours ago",
+      "posted_date": "2026-11-14",
+      "link": "https://in.linkedin.com/jobs/view/sales-and-marketing-at-sharda-consultancy-services-4489880011"
+    },
+    "query": "forex trading AND copywriter",
     "attempts": 0
   }
 ]
