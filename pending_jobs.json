@@ -43743,5 +43743,57 @@
     },
     "query": "forex trading AND \"content writer\"",
     "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4491507987",
+      "title": "INEC tuyển dụng vị trí Copywriter",
+      "company": "Du học INEC",
+      "location": "Ho Chi Minh City Metropolitan Area",
+      "posted": "7 hours ago",
+      "posted_date": "2026-11-16",
+      "link": "https://vn.linkedin.com/jobs/view/inec-tuy%C3%AA%CC%89n-du%CC%A3ng-v%E1%BB%8B-tr%C3%AD-copywriter-at-du-h%E1%BB%8Dc-inec-4491507987"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4490974683",
+      "title": "Growth Content Manager, ZVAS",
+      "company": "Zalo",
+      "location": "Ho Chi Minh City, Vietnam",
+      "posted": "3 hours ago",
+      "posted_date": "2026-11-17",
+      "link": "https://vn.linkedin.com/jobs/view/growth-content-manager-zvas-at-zalo-4490974683"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4490933128",
+      "title": "Finance Content Creator",
+      "company": "Nepse Alerts",
+      "location": "Kathmandu, Bāgmatī, Nepal",
+      "posted": "3 hours ago",
+      "posted_date": "2026-11-17",
+      "link": "https://np.linkedin.com/jobs/view/finance-content-creator-at-nepse-alerts-4490933128"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4490403087",
+      "title": "Creative Copywriter & Strategist",
+      "company": "Inara Digital",
+      "location": "Mumbai, Maharashtra, India",
+      "posted": "7 minutes ago",
+      "posted_date": "2026-11-17",
+      "link": "https://in.linkedin.com/jobs/view/creative-copywriter-strategist-at-inara-digital-4490403087"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
   }
 ]
