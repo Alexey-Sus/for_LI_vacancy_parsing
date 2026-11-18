@@ -44965,5 +44965,83 @@
     },
     "query": "forex trading AND \"content writer\"",
     "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4491111505",
+      "title": "Conversion Copywriter",
+      "company": "Vib3",
+      "location": "Vilnius, Vilniaus, Lithuania",
+      "posted": "18 hours ago",
+      "posted_date": "2026-11-17",
+      "link": "https://lt.linkedin.com/jobs/view/conversion-copywriter-at-vib3-4491111505"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4491775072",
+      "title": "Sr. Copywriter",
+      "company": "Acorns",
+      "location": "United States",
+      "posted": "3 hours ago",
+      "posted_date": "2026-11-17",
+      "link": "https://www.linkedin.com/jobs/view/sr-copywriter-at-acorns-4491775072"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4491741427",
+      "title": "Staff Writer",
+      "company": "AxisKey",
+      "location": "Quito, Pichincha, Ecuador",
+      "posted": "4 hours ago",
+      "posted_date": "2026-11-17",
+      "link": "https://ec.linkedin.com/jobs/view/staff-writer-at-axiskey-4491741427"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4491438657",
+      "title": "AEO/SEO Content Writer",
+      "company": "OnePay",
+      "location": "United States",
+      "posted": "3 hours ago",
+      "posted_date": "2026-11-17",
+      "link": "https://www.linkedin.com/jobs/view/aeo-seo-content-writer-at-onepay-4491438657"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4490814259",
+      "title": "Growth Copywriter",
+      "company": "Jerry",
+      "location": "United States",
+      "posted": "4 hours ago",
+      "posted_date": "2026-11-17",
+      "link": "https://www.linkedin.com/jobs/view/growth-copywriter-at-jerry-4490814259"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
+  },
+  {
+    "job": {
+      "id": "4490811485",
+      "title": "Conversion Copywriter, Growth",
+      "company": "Jerry",
+      "location": "United States",
+      "posted": "4 hours ago",
+      "posted_date": "2026-11-17",
+      "link": "https://www.linkedin.com/jobs/view/conversion-copywriter-growth-at-jerry-4490811485"
+    },
+    "query": "crypto AND copywriter",
+    "attempts": 0
   }
 ]
